@@ -1,1 +1,18 @@
-/* styles go here */
+/* body {
+  background-color: #1d2a35;
+  color: white;
+} */
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+label.input {
+  margin-bottom: 10px;
+  display: block;
+}
+
+div.input {
+  margin-bottom: 10px;
+  display: block;
+}
