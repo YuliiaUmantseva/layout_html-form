@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAKA,SACE,kBACF,CAEA,OACE,kBAAmB,CACnB,aACF","file":"style.fb958e8e.css","sourceRoot":"..\\src","sourcesContent":["/* body {\n  background-color: #1d2a35;\n  color: white;\n} */\n\nfieldset {\n  margin-bottom: 20px;\n}\n\n.input {\n  margin-bottom: 10px;\n  display: block;\n}\n"]}
